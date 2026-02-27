@@ -55,10 +55,7 @@
 
 <!-- ------ -->
 
-## 🖍 About
-- The <b>"Employee Payroll Management System"</b> by Emman P. Barrameda is my practice project based on Java Swing, developed during the Covid lockdown in May 2020. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an MySQL database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
-
-<br>
+>
 
 <!-- ------ -->
 
